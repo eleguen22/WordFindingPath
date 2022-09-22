@@ -1,0 +1,17 @@
+search 1 (cold-->warm), results :
+
+cold
+cord
+card
+ward
+warm
+
+search 2 (cold-->warm), results :
+
+small
+shall
+shale
+share
+shore
+short
+
